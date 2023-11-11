@@ -1,0 +1,14 @@
+{
+  "name": "c554c83346121bc3",
+  "main": "c554c83346121bc3@35.js",
+  "version": "35.0.0",
+  "homepage": "https://observablehq.com/d/c554c83346121bc3",
+  "author": {
+    "name": "Annie's Workspace",
+    "url": "https://observablehq.com/@annie5-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
