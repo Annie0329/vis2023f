@@ -1,0 +1,14 @@
+{
+  "name": "1b6505fcf433c28d",
+  "main": "1b6505fcf433c28d@138.js",
+  "version": "138.0.0",
+  "homepage": "https://observablehq.com/d/1b6505fcf433c28d",
+  "author": {
+    "name": "Annie's Workspace",
+    "url": "https://observablehq.com/@annie5-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "a9115026de169934",
+  "main": "a9115026de169934@166.js",
+  "version": "166.0.0",
+  "homepage": "https://observablehq.com/d/a9115026de169934",
+  "author": {
+    "name": "Annie's Workspace",
+    "url": "https://observablehq.com/@annie5-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
